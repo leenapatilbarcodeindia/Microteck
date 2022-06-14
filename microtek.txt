@@ -1,0 +1,67 @@
+SRS: What is given in the system
+
+User manual: How the system works
+
+
+pcb
+cheche
+transformer
+
+
+RM warehouse ope: similar process as other
+only receiving based on GRM
+manu date may/may not required
+
+quality check: picking sample material:
+2 scenarios: 1 withput quality will not receive the material
+2. pass it or fail
+
+Putaway: material location, material matrix
+
+3 sivalik, balaji, 
+
+picklist generation: kit banake production team ko bhejna (finalization pending)
+
+picking and issuarance are common
+
+shop floor return: 1 time label print after receiving, 
+
+Rework: Multiple places cooprated, In the RM we got material and needs rework, so need to pass and fail. (Hold)
+
+Stencil inventory: solder paste, hardware componant, it has risky lifecycle, inventory maintenace of the asset, 
+
+Transformer: laser marking se barcode generate hoga, serial number humari system se generate hoga, identification of transformer, 
+transformer label pritning
+putaway: in trolly
+
+WIP/SHop flooer operations: MIS process, 1st laser marking barcode print >and serial number> offline process> then loader >solder pasting> picking >inspection
+
+Reflow oven: humara application nahi hai
+
+AOI: 
+X ray machine: need to confirm
+
+Rounting: most critical componant in this project: Mapping
+
+
+Manual insertion: component kahape lagane hai
+
+Circuit testing(ICT): automated testing machine: humara barcode leke jayenge and data capture karenge
+
+Fuction test (FCT) automated process isme pass or fail note karna hai
+
+Performance testing: if the output is proper or not
+
+Chassis label printing: cabin label printing, we add labels on this
+
+Chassis transformern mapping: trial mapping> connection setup. chasis barcode helps to capture the details
+
+Assembly: same 
+
+Packing: 3 stckers
+
+Warehue operation
+
+
+
+
